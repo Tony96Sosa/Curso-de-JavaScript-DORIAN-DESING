@@ -2,7 +2,8 @@ body{
 	background-color: #ccff99;
 }
 #principal{
-	width: 500px;
+	/*width: 500px;*/
+	width:35%;
 	text-align: center;
 	margin: 15px auto ;
 	padding: 15px;
